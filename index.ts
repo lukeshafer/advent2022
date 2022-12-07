@@ -13,8 +13,12 @@
 //await import('./Day4/part1');
 //await import('./Day4/part2');
 
-console.log('DAY 5');
-await import('./Day5/part1');
-await import('./Day5/part2');
+//console.log('DAY 5');
+//await import('./Day5/part1');
+//await import('./Day5/part2');
+
+console.log('DAY 6');
+//await import('./Day6/part1');
+await import('./Day6/part2');
 
 export {};
